@@ -1,5 +1,7 @@
 {
-  "version_code": 1,
-  "url_launcher": "",
-  "url_cache_files": "https://gamenkik90-ai.github.io/GRUL-CACHE/manifest.json"
+  "client_config": {
+    "version_code": 1,
+    "url_launcher": "",
+    "url_cache_files": "https://gamenkik90-ai.github.io/GRUL-CACHE/manifest.json"
+  }
 }
